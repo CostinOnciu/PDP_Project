@@ -1,0 +1,4 @@
+﻿  BasicProject.cpp
+C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\BasicProject\BasicProject.cpp(6,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\BasicProject\BasicProject.cpp(27,22): warning C4018: '<': signed/unsigned mismatch
+  BasicProject.vcxproj -> C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\Debug\BasicProject.exe
