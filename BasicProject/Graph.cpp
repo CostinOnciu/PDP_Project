@@ -6,7 +6,7 @@ Graph::Graph(int size)
 	for (int i = 0;i < size;i++)
 	{
 		neighbours.push_back(std::set<int>());
-		colors.push_back(-1);
+		colors.push_back(1);
 	}
 }
 

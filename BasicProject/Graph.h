@@ -15,3 +15,10 @@ public:
 
 };
 
+class ColouringException: public std::exception {
+public:
+	const char* what() const throw ()
+	{
+		return "Not possible to colour with that number of colours";
+	}
+};

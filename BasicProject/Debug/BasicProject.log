@@ -1,4 +1,10 @@
 ﻿  BasicProject.cpp
-C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\BasicProject\BasicProject.cpp(6,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\BasicProject\BasicProject.cpp(27,22): warning C4018: '<': signed/unsigned mismatch
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\BasicProject\BasicProject.cpp(9,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\BasicProject\BasicProject.cpp(33,25): warning C4018: '<': signed/unsigned mismatch
+  Graph.cpp
+  Generating Code...
   BasicProject.vcxproj -> C:\Users\costi\Desktop\Faculta\PDP\Project\Basic\BasicProject\Debug\BasicProject.exe
